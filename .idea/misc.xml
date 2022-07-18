@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/Downloads/ArtPlay/app/src/main/res/layout/activity_main.xml" value="0.165625" />
+        <entry key="..\:/Users/User/Downloads/ArtPlay/app/src/main/res/layout/api_row.xml" value="0.16296296296296298" />
+        <entry key="..\:/Users/User/Downloads/ArtPlay/app/src/main/res/layout/art_row.xml" value="0.16296296296296298" />
+        <entry key="..\:/Users/User/Downloads/ArtPlay/app/src/main/res/layout/fragment_art_list.xml" value="0.209375" />
+        <entry key="..\:/Users/User/Downloads/ArtPlay/app/src/main/res/layout/fragment_artplay.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/Downloads/ArtPlay/app/src/main/res/layout/fragment_image_api.xml" value="0.16296296296296298" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

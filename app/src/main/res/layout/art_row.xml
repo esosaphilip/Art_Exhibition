@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/ic_launcher_background"/>
+   <LinearLayout
+       android:padding="8dp"
+       android:orientation="vertical"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content">
+       <TextView
+           android:id="@+id/imageName"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Art Name"
+           android:textSize="25sp"
+           android:layout_marginLeft="14sp"
+           android:layout_marginBottom="4dp"
+           />
+       <TextView
+           android:id="@+id/ArtistName"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Artist Name"
+           android:textSize="20sp"
+           android:layout_marginLeft="14sp"
+           android:layout_marginBottom="4dp"
+           />
+       <TextView
+           android:id="@+id/imageYear"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Art Year"
+           android:textSize="20sp"
+           android:layout_marginLeft="14sp"
+           android:layout_marginBottom="4dp"
+           />
+       
+
+   </LinearLayout>
+
+
+</LinearLayout>
